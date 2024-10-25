@@ -1,0 +1,3 @@
+class User < Entity
+
+end
